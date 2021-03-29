@@ -1,0 +1,169 @@
+.wrap{
+	width: 1305px;
+	margin:auto;
+	height: 3009px;
+	text-align: center;
+	font-family:asdf ;
+}
+.header{
+	width: 100%;
+	background-image:url("");
+	float:left;
+	text-align: center;
+	clear:both;
+
+}
+.head1{
+	position: fixed;
+	width: 1305px;
+	height: 45px;
+	background-color:black;
+	top:-6px;
+	cursor: pointer;
+}
+ ul.horosho li 
+ {
+    display: inline;
+    color: white;
+	margin-right: 10px;
+    border: 1px solid #000;
+
+    }
+.horosho:hover
+{
+	text-decoration:none;
+	color: #FFFFFF;
+}
+ul.horosho
+{
+    margin: 0;
+    padding: 4px;
+
+}
+.head1 img
+{
+	font-size:10;
+	margin:auto;
+	max-width: 2%;
+}
+.content
+{
+	width:100%;
+	height:300px;
+	clear:both;
+	float:left;
+	cursor: pointer;
+}
+.chast1
+{
+	align-items:center;
+
+
+}
+
+.head2
+{
+	margin-top: 30px;
+	width:100%;
+	height:45px;
+	background-color:gray;
+
+}
+.iPhone
+{
+	width: 100%;
+	height: 510px;
+	background-color:black;
+	color: white;
+}
+.iphoneee
+{
+	color:black;
+}
+.zxc
+{
+	width: 50%;
+	background-color: black;
+ 	height: 510px;  
+
+
+
+}
+.asd
+{
+	width: 50%;
+	background-color: white;
+	height: 510px;
+
+
+
+}
+.kv1
+{
+	float: left;
+	background-color: black;
+	color: white;
+	width: 50%;
+	height:510px;
+	top: 100px;
+}
+.kv2
+{
+	float: left;
+	background-color: #FFFFFF;
+	color: black;
+	width: 50%;
+	height:510px;
+
+}
+.kv3
+{
+	float: left;
+	background-color: #FFFFFF;
+	color: black;
+	width: 50%;
+	height:510px;
+
+}
+.kv4
+{
+	float: left;
+	background-color: #FFFFFF;
+	color: black;
+	width: 50%;
+	height:510px;
+
+}
+.photo1
+{
+	float: left;
+	background-color: #21BEF2;
+	color: black;
+	width: 50%;
+	height:510px;
+}
+.photo2
+{
+	float: left;
+	background-color: #FFFFFF;
+	color: black;
+	width: 50%;
+	height:510px;
+}
+
+.p1
+{
+ cursor: pointer;
+color: blue;
+}
+
+
+
+
+
+
+
+@font-face {
+	font-family:asdf ;
+	src:url("../../font/15785.otf");
+}
